@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "/"
 languageCode = "en-GB"
-title = "滋養台南 | Nourishing Tainan"
+title = EMC | Connecting to Future"
 paginate = 9
 
 [params]
@@ -20,22 +20,22 @@ paginate = 9
 
   [[menu.main]]
     identifier = "blog"
-    name = "故事 ｜ stories"
+    name = "Posts"
     url = "/posts/"
     weight = 3
 
 [[menu.main]]
-      name = "關於我們 ｜ About"
+      name = "About"
       url = "/about/"
       weight = 4
 
 [[menu.main]]
-      name = "搜尋 ｜ Search"
+      name = "Search"
       url = "/search/"
       weight = 6
 
 [[menu.main]]
-      name = "聯絡我們 | Contact Us"
+      name = "Contact Us"
       url = "/contact/"
       weight = 7
 
@@ -48,19 +48,19 @@ paginate = 9
 
       [[menu.footer]]
       identifier = "blog"
-      name = "故事｜stories"
+      name = "Posts"
       url = "/posts/"
       weight = 3
 
       [[menu.footer]]
       identifier = "about"
-      name = "關於我們｜About"
+      name = "About"
       url = "/about/"
       weight = 4
 
       [[menu.footer]]
       identifier = "search"
-      name = "搜尋｜Search"
+      name = "Search"
       url = "/search/"
       weight = 4
 
@@ -81,24 +81,24 @@ paginate = 9
   # Author Settings
   [params.author]
     author__name = "Wind&Bones"
-    author__bio = "Writing and storytelling for social change. We mentor, teach and consult. Run by writers Dr Hannah Stevens & Dr Will Buckingham. Registered as a social enterprise in Dundee, Scotland, we work across the globe. We currently divide our time between Dundee and Tainan, Taiwan."
+    author__bio = "Writing and storytelling for social change. We mentor, teach and consult. we work across the globe.."
     author__avatar = "https://via.placeholder.com/500x500"
 
   # Social Links
   [[params.social]]
     icon = "ion-logo-twitter"
     name = "Twitter"
-    link = "https://twitter.com/windandbones"
+    link = "https://twitter.com/emc"
 
   [[params.social]]
     icon = "ion-logo-facebook"
     name = "Facebook"
-    link = "https://www.facebook.com/windandboneswriting"
+    link = "https://www.facebook.com/emc"
 
   [[params.social]]
     icon = "ion-logo-instagram"
     name = "Instagram"
-    link = "https://www.instagram.com/windandboneswriting/"
+    link = "https://www.instagram.com/emc/"
 
   # Example of adding a new link to the footer:
   # [[params.social]]
@@ -113,8 +113,8 @@ paginate = 9
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "滋養台南 | Nourishing Tainan"
-    hero__description = "食物滋養我們的身體。故事滋養我們的靈魂。哲學滋養我們的心靈  |  Food Nourishes Our Bodies. Stories nourish our spirit. Philosophy nourishes our mind."
+    hero__title = "Error Makes Clever"
+    hero__description = "Food Nourishes Our Bodies. Stories nourish our spirit. Philosophy nourishes our mind."
     hero__image = "/images/about/frontpage.jpg"
 
 
@@ -131,8 +131,8 @@ paginate = 9
   # Mentoring Settings
   [params.mentor]
     enable = false
-    mentor__title= "Mentoring with Wind&Bones"
-    mentor__description = "Wind&Bones offer mentoring for writers at all stages of their careers, from absolute beginners to writers with years of experience. Our mentoring packages are designed to work around your needs, so you can reach your writing goals."
+    mentor__title= "Error Makes Clever"
+    mentor__description = "EMC offer mentoring for writers at all stages of their careers, from absolute beginners to writers with years of experience. Our mentoring packages are designed to work around your needs, so you can reach your writing goals."
     mentor__image = "images/mentor/writer.jpg"
 
   
@@ -212,7 +212,7 @@ paginate = 9
   # Blog Section
   [params.blog]
     enable = true
-    blog__title = "故事 ｜ Stories"
+    blog__title = "Stories"
     blog__description = ""
 
 
