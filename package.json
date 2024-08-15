@@ -1,0 +1,15 @@
+{
+  "name": "windbonesdev",
+  "version": "1.0.0",
+  "description": "The Hilton theme is designed to give you the opportunity to present your works in the most creative and dignified way possible. The theme is very easy to customize and has such necessary sections as Works, Testimonials, Blog, and also has a light and dark mode for easy reading. The theme design is ideal for creative people who appreciate simplicity and functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.8"
+  }
+}
