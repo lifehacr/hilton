@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "/"
 languageCode = "en-GB"
-title = "EMC | Connecting to Future"
+title = "EMC"
 paginate = 9
 
 [params]
