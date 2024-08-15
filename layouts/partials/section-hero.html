@@ -1,0 +1,27 @@
+{{ if .Site.Params.hero.enable }}
+<!-- begin hero -->
+<section class="hero">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="hero__inner">
+          <div class="hero__left">
+            <div class="hero__image">
+              <img class="lazy" data-src="{{ .Site.Params.hero.hero__image }}" alt="Wind&Bones">
+            </div>
+          </div>
+
+          <div class="hero__right">
+            <h1 class="hero__title">{{ .Site.Params.hero.hero__title }}</h1>
+            <p class="hero__description">{{ .Site.Params.hero.hero__description }}</p>
+            {{ if .Site.Params.mailchimp.enable }}
+            {{ partial "newsletter.html" . }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end author -->
+{{ end }}

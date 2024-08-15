@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/project/</link>
+    <description>Recent content in Project on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 19 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hot Chocolate - False Perceptions, True Stories</title>
+      <link>http://localhost:1313/posts/hot-chocolate/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hot-chocolate/</guid>
+      <description>This July 2023, we worked in Dundee, Scotland with a group of young people, exploring the art of manifesto-writing, and asking how telling truer, better stories can help to counter false perceptions of young people and their lives.&#xA;We explored manifestos from the last one hundred and fifty years, and then collectively wrote a manifesto of our own, one that aimed to get to the heart of the complex, multi-faceted experience of what it means to be a young person today.</description>
+    </item>
+    <item>
+      <title>Wind&amp;Bones - Looking forward, Looking Back</title>
+      <link>http://localhost:1313/posts/looking-forward-looking-back/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/looking-forward-looking-back/</guid>
+      <description>Happy New Year from Madeira, where we are taking a working break for a couple of weeks. While here in Funchal, we&amp;rsquo;re looking over what we have done in 2022 and making plans for 2023.&#xA;2022 in Review Wind&amp;amp;Bones move to Scotland Last year was incredibly busy. The most significant change was that we moved from Sofia, Bulgaria, to Dundee, Scotland. After almost 2½ years working in Bulgaria, we felt like we needed to reconnect to our UK roots, so we moved up to Scotland.</description>
+    </item>
+    <item>
+      <title>Countering Harmful Stories With Better Stories</title>
+      <link>http://localhost:1313/posts/countering-harmful-stories-with-better-stories/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/countering-harmful-stories-with-better-stories/</guid>
+      <description>Last week, we were at the British Ambassador&amp;rsquo;s Residence in Sofia for a fundraising event with the Emprove Foundation for our Awakening Between the Lines Project. Here&amp;rsquo;s the speech we wrote for the event.&#xA;Good evening. I&amp;rsquo;m Will Buckingham, co-director of Wind&amp;amp;Bones, and over there is my colleague and Wind&amp;amp;Bones co-director Hannah Stevens. Wind&amp;amp;Bones is a social enterprise now based in Scotland, and we run projects at the intersection of writing, creativity and social change.</description>
+    </item>
+    <item>
+      <title>The Stories that Make Us - Working With Women Survivors</title>
+      <link>http://localhost:1313/posts/the-stories-that-make-us/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-stories-that-make-us/</guid>
+      <description>This November, we&amp;rsquo;re starting a new project with the brilliant Bulgarian Emprove Foundation, who work with women survivors of domestic abuse.&#xA;The project is called The Stories that Make Us: Creative writing with women survivors — finding new models for creative intervention. Over six weeks between November and December this year, we&amp;rsquo;ll be working with a group of women survivors, exploring how storytelling can be used to build community and bring about both individual and social transformation.</description>
+    </item>
+  </channel>
+</rss>

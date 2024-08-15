@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/books/</link>
+    <description>Recent content in Books on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sat, 03 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Their Absence, Now in Bulgarian</title>
+      <link>http://localhost:1313/posts/in-their-absence-bulgarian/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/in-their-absence-bulgarian/</guid>
+      <description>Wind&amp;amp;Bones were based in Bulgaria for over two years, and so we are particularly delighted to see Hannah Stevens&amp;rsquo;s brilliant short story collection, In Their Absence being released in a Bulgarian language edition, translated by Ana Pipeva.&#xA;The translation, Когато ги няма (Kogato gi nyama), is published by Altera, and has already attracted significant media attention.&#xA;If you speak Bulgarian, have a listen in here on Bulgarian National Radio. And if you want to buy the book, this is the link</description>
+    </item>
+    <item>
+      <title>&#39;Hello, Stranger&#39; hits the shops this July</title>
+      <link>http://localhost:1313/posts/hello-stranger/</link>
+      <pubDate>Thu, 03 Jun 2021 15:28:43 +0600</pubDate>
+      <guid>http://localhost:1313/posts/hello-stranger/</guid>
+      <description>We&amp;rsquo;re delighted that our very own Will Buckingham&amp;rsquo;s Hello, Stranger: How We Find Connection in a Disconnected World is coming out from Granta this July 1st.&#xA;Will&amp;rsquo;s book brings together insights from philosophy, anthropology, history, and literature to explore how our traditions of meeting with strangers can mitigate the issues of our time. Taking in stories of loneliness, exile, and friendship from classical times to the modern day, and alighting in adapting communities from Birmingham to Myanmar, Hello, Stranger asks: how do we set aside our instinctive xenophobia – fear of outsiders – and embrace our equally natural philoxenia – love of strangers and newness?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scotland on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/scotland/</link>
+    <description>Recent content in Scotland on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scotland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wind&amp;Bones are now based in Dundee!</title>
+      <link>http://localhost:1313/posts/dundee/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dundee/</guid>
+      <description>Over the last couple of weeks, we&amp;rsquo;ve been busy moving our headquarters of operations from Sofia in Bulgaria to Dundee in Scotland. We landed here a week ago, and since then, we&amp;rsquo;ve been busy unpacking boxes and getting settled. It&amp;rsquo;s great to be up in Scotland. We&amp;rsquo;ve only been here a few days. But already, Dundee has been hugely welcoming. It has been great to start making connections and getting to know the local writing scene.</description>
+    </item>
+  </channel>
+</rss>

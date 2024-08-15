@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytelling on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/storytelling/</link>
+    <description>Recent content in Storytelling on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Storytelling in the Liberal Arts and Sciences</title>
+      <link>http://localhost:1313/posts/las-osun/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/las-osun/</guid>
+      <description>Seven years ago we ran our first storytelling workshop as Wind&amp;amp;Bones. This first ever workshop was a multilingual event with asylum-seekers and refugees in Leicester, UK. It was a sheer, boisterous delight, held in a community hall in the centre of the city. We shared and wrote stories in multiple languages, whilst at the same time an exercise class was taking part in another corner of the hall, and lunch being served in yet another.</description>
+    </item>
+  </channel>
+</rss>

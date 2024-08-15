@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Philosophy Salon in Tainan</title>
+      <link>http://localhost:1313/posts/philosophy-salon/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/philosophy-salon/</guid>
+      <description>Last month, we kicked off our latest project, a philosophy salon in collaboration with the wonderful people at the Wansha Performing Arts Centre / 涴莎藝術展演中心 here in Tainan. The salon is a chance for members of the public to come together and talk about the relationship between philosophy and the paradoxes and puzzles of everyday life.&#xA;We are incredibly excited by this project, in particular because it is our first Chinese-language-only project.</description>
+    </item>
+    <item>
+      <title>Looking for Wisdom - A New Collaboration for Wind&amp;Bones</title>
+      <link>http://localhost:1313/posts/looking-for-wisdom/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/looking-for-wisdom/</guid>
+      <description>We&amp;rsquo;re delighted that Looking for Wisdom, the philosophy-by-email project run by Dr Will Buckingham, is now a part of Wind&amp;amp;Bones. At Wind&amp;amp;Bones, we believe that creative writing and creative thinking have the power to change the world. So this new collaboration is a great fit for what we do.&#xA;Looking for Wisdom brings the world&amp;rsquo;s philosophy to your inbox with free weekly Philosopher Files. The project was launched formally on January 1st this year.</description>
+    </item>
+  </channel>
+</rss>

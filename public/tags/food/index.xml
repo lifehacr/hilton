@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/food/</link>
+    <description>Recent content in Food on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 02 Jan 2024 10:50:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>滋養台南 | Nourishing Tainan</title>
+      <link>http://localhost:1313/posts/%E6%BB%8B%E9%A4%8A%E5%8F%B0%E5%8D%97-nourishing-tainan/</link>
+      <pubDate>Tue, 02 Jan 2024 10:50:53 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E6%BB%8B%E9%A4%8A%E5%8F%B0%E5%8D%97-nourishing-tainan/</guid>
+      <description>We ended 2023 with a ten-day residency at the Nanning Literary House (南寧文學·家), where we ran a project called 滋養台南 | Nourishing Tainan. We spent ten days working on our writing, and also working with members of the public to write stories about the things that nourish us: the food that nourishes our bodies, the stories that nourish our spirit, and the ideas that nourish our imagination. You can see the project website here.</description>
+    </item>
+    <item>
+      <title>Waterford Food Manifesto</title>
+      <link>http://localhost:1313/posts/waterford-food-manifesto/</link>
+      <pubDate>Thu, 06 Jul 2023 12:06:35 +0000</pubDate>
+      <guid>http://localhost:1313/posts/waterford-food-manifesto/</guid>
+      <description>Last summer, we worked with GIY (Ireland), Ashoka, and the wonderful Dr. Sarah Prosser on a project to develop a manifesto for future food in the Waterford Bioregion. We co-ran a workshop with local farmers, community members and consumers, leading to the drafting of a manifesto for rethinking the centrality of food in all of our lives.&#xA;You can read more about the project here: Waterford Manifesto.&#xA;We&amp;rsquo;re delighted that the manifesto is now available on YouTube, read by Ray McGrath, who took part in the workshop.</description>
+    </item>
+    <item>
+      <title>Food Done Right, in Waterford, Ireland</title>
+      <link>http://localhost:1313/posts/food-done-right-in-waterford-ireland/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/food-done-right-in-waterford-ireland/</guid>
+      <description>The Waterford Harvest Festival kicks off this September in Waterford, Ireland. Run by the brilliant social enterprise GIY, the festival is a three-day celebration of “food done right”, an exploration of food, heritage, and sustainability.&#xA;At Wind&amp;amp;Bones, we&amp;rsquo;re immensely excited to have been invited to be writers in residence at the festival. So on the 10th and 11th of September, we&amp;rsquo;ll be over in Ireland, setting up a story farm. We&amp;rsquo;ll be inviting members of the public to plant the seeds of new stories, and to watch them grow in new and surprising directions.</description>
+    </item>
+  </channel>
+</rss>

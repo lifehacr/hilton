@@ -1,0 +1,8 @@
+<div class="hero__subscribe">
+<form class="subscribe-form validate" id="search"
+    action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' method="get">
+    <label class="screen-reader-text" hidden for="search-input">Search site</label>
+    <input class="subscribe-email required email" type="text" id="search-input" name="query"
+    placeholder="Search here">
+    <input class="button button--primary button--small subscribe-button" type="submit" value="Submit">
+</div>

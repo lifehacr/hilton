@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Residency on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/residency/</link>
+    <description>Recent content in Residency on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 02 Jan 2024 10:50:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/residency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>滋養台南 | Nourishing Tainan</title>
+      <link>http://localhost:1313/posts/%E6%BB%8B%E9%A4%8A%E5%8F%B0%E5%8D%97-nourishing-tainan/</link>
+      <pubDate>Tue, 02 Jan 2024 10:50:53 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%E6%BB%8B%E9%A4%8A%E5%8F%B0%E5%8D%97-nourishing-tainan/</guid>
+      <description>We ended 2023 with a ten-day residency at the Nanning Literary House (南寧文學·家), where we ran a project called 滋養台南 | Nourishing Tainan. We spent ten days working on our writing, and also working with members of the public to write stories about the things that nourish us: the food that nourishes our bodies, the stories that nourish our spirit, and the ideas that nourish our imagination. You can see the project website here.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/women/</link>
+    <description>Recent content in Women on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/women/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Stories that Make Us - Working With Women Survivors</title>
+      <link>http://localhost:1313/posts/the-stories-that-make-us/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-stories-that-make-us/</guid>
+      <description>This November, we&amp;rsquo;re starting a new project with the brilliant Bulgarian Emprove Foundation, who work with women survivors of domestic abuse.&#xA;The project is called The Stories that Make Us: Creative writing with women survivors — finding new models for creative intervention. Over six weeks between November and December this year, we&amp;rsquo;ll be working with a group of women survivors, exploring how storytelling can be used to build community and bring about both individual and social transformation.</description>
+    </item>
+  </channel>
+</rss>

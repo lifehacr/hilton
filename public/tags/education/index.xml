@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/education/</link>
+    <description>Recent content in Education on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Term for Myanmar</title>
+      <link>http://localhost:1313/posts/new-term-myanmar/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-term-myanmar/</guid>
+      <description>If you have been following our work for a while, you will know that at Wind&amp;amp;Bones, we have long-standing connections with Myanmar. In 2017, Wind&amp;amp;Bones&amp;rsquo;s Will Buckingham was on the founding faculty at the Parami Institute, which is now Parami University. Then between 2018 and 2019, Will was back in Myanmar to work on a writing residency with his Wind&amp;amp;Bones collaborator and co-director, Hannah Stevens, delivering workshops on writing, ethics and social change.</description>
+    </item>
+    <item>
+      <title>Education in Post-Coup Myanmar</title>
+      <link>http://localhost:1313/posts/education-myanmar/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/education-myanmar/</guid>
+      <description>We&amp;rsquo;ve been working on a few new projects recently, including a collaboration with Parami University in Myanmar. We were writers in residence at Parami back in 2018-2019, and after the military coup of February 1st this year, we&amp;rsquo;ve been deeply preoccupied with the unfolding situation over there. So we&amp;rsquo;re delighted to be working with Parami University again, running some remote courses via Zoom for students across Myanmar.&#xA;We&amp;rsquo;re running three courses in all.</description>
+    </item>
+    <item>
+      <title>Looking for Wisdom - A New Collaboration for Wind&amp;Bones</title>
+      <link>http://localhost:1313/posts/looking-for-wisdom/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/looking-for-wisdom/</guid>
+      <description>We&amp;rsquo;re delighted that Looking for Wisdom, the philosophy-by-email project run by Dr Will Buckingham, is now a part of Wind&amp;amp;Bones. At Wind&amp;amp;Bones, we believe that creative writing and creative thinking have the power to change the world. So this new collaboration is a great fit for what we do.&#xA;Looking for Wisdom brings the world&amp;rsquo;s philosophy to your inbox with free weekly Philosopher Files. The project was launched formally on January 1st this year.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+{{ define "main" }}
+<!-- begin page-head -->
+<div class="container">
+    <div class="page-head">
+      <h1 class="page-title">{{.Title}}</h1>
+      {{ if .Description }}
+        <p class="page-description">{{ .Description }}</p>
+      {{ end }}
+    </div>
+  </div>
+  <!-- end page-head -->
+
+<!-- Page body-->
+<div class="projects-page container animate">
+<div class="project-content animate">
+
+            <p id="results">
+            </p>
+            {{ partial "search-form.html" . }}
+
+        </div>
+      
+
+<!-- end page body-->
+</div>
+
+
+{{ end }}

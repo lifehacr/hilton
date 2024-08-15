@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taiwan on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/taiwan/</link>
+    <description>Recent content in Taiwan on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/taiwan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wind&amp;Bones in Taiwan</title>
+      <link>http://localhost:1313/posts/wind-and-bones-taiwan/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wind-and-bones-taiwan/</guid>
+      <description>This August, we&amp;rsquo;ll be packing our bags, and heading over to Taiwan. We were last in Taiwan four years ago, on a short visit from Myanmar, and we found ourselves smitten. In particular, while in Tainan (our favourite Taiwanese city), we visited the National Museum of Taiwan Literature, and we were enormously impressed by the nuanced and thoughtful take on the ways in which literature can act as a driver of positive social change.</description>
+    </item>
+  </channel>
+</rss>

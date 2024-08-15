@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/podcast/</link>
+    <description>Recent content in Podcast on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creativity on the Margins of Academia</title>
+      <link>http://localhost:1313/posts/creativity-margins/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creativity-margins/</guid>
+      <description>The other week, we had the pleasure of sitting down for a long Zoom chat about creativity with scholar, travel-writer and researcher Dr Tim Hannigan. Tim works for Dublin City University on their DCU CREDNE — Forging Creativity project.&#xA;We were talking about the connections between creativity and interdisciplinarity, why we want university creative writing to decamp from English departments to the art school, and the creative benefits of operating at the margins of formal academia.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Korea on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/korea/</link>
+    <description>Recent content in Korea on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 22 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/korea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wind&amp;Bones in Korea!</title>
+      <link>http://localhost:1313/posts/in-korea/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/in-korea/</guid>
+      <description>How can stories, books, museums, and other parts of our shared culture bring about social change? We think about these things a lot, so it&amp;rsquo;s been a delight to be visiting the seaside city of Busan in Korea, where we were at the World Humanities Forum, talking about Humanities in Relationship: Towards Communication, Coexistence and Empathy.&#xA;Wind&amp;amp;Bones&amp;rsquo;s Dr Will Buckingham was presenting a paper at the forum on how the idea of philoxenia — a term coming from Greek meaning &amp;ldquo;friendship with that which is other&amp;rdquo; — can help us think through the significance of museums for their visitors.</description>
+    </item>
+  </channel>
+</rss>

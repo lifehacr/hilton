@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentary on 滋養台南 | Nourishing Tainan</title>
+    <link>http://localhost:1313/tags/documentary/</link>
+    <description>Recent content in Documentary on 滋養台南 | Nourishing Tainan</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/documentary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Term for Myanmar</title>
+      <link>http://localhost:1313/posts/new-term-myanmar/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-term-myanmar/</guid>
+      <description>If you have been following our work for a while, you will know that at Wind&amp;amp;Bones, we have long-standing connections with Myanmar. In 2017, Wind&amp;amp;Bones&amp;rsquo;s Will Buckingham was on the founding faculty at the Parami Institute, which is now Parami University. Then between 2018 and 2019, Will was back in Myanmar to work on a writing residency with his Wind&amp;amp;Bones collaborator and co-director, Hannah Stevens, delivering workshops on writing, ethics and social change.</description>
+    </item>
+  </channel>
+</rss>
